@@ -1,6 +1,6 @@
-//
-// Created by Dell on 2020/7/3.
-//
+/*
+ * Created by cls on 2020/7/3.
+ */
 
 #ifndef LAB8NEW_DOUBLE_LIST_H
 #define LAB8NEW_DOUBLE_LIST_H

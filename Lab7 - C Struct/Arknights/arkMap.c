@@ -1,7 +1,7 @@
 /*
  * VG101 Lab 6 & Lab 7, SU2020
  * Written by William Wu
- * Latest Update: June.28, 2020
+ * Latest Update: July.10, 2020
  */
 
 #include "arkMap.h"

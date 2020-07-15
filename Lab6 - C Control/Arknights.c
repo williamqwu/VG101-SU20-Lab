@@ -4,7 +4,7 @@
  * Latest Update: June.18, 2020
  */
 
-/* Header files and constants:*/
+/* Header files and constants*/
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -54,6 +54,7 @@ const double D_VALUE_OP = 300.0;
 // For simplicity, we define the map array globally:
 int arkMap[MAP_LENGTH_X][MAP_LENGTH_Y];
 // int maze[14][18];
+
 /* Define your function prototypes here: */
 
 void mapGenerator();

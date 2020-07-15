@@ -2,7 +2,7 @@
 Lab manuals and worksheets designed for the course Intro. to Computers &amp; Programmings (VG101)
 
 Contributors:
-- CAO Hangrui
-- SHAN Haoxuan
-- WU Qinhang
-- XU Muchen
+- [CAO Hangrui](https://github.com/DiegoCao)
+- [SHAN Haoxuan](https://github.com/shanhx2000)
+- [WU Qinhang](https://github.com/MatrixPecker)
+- [XU Muchen](https://github.com/Scarlet-Climax)

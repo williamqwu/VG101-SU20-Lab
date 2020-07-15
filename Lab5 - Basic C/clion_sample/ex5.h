@@ -1,6 +1,7 @@
-//
-// Created by William Wu on 2019/6/16.
-//
+/*
+ * Created by William Wu on 2019/6/16.
+ */
+
 #ifndef MATH_H
 #define MATH_H
 #include <math.h>
@@ -16,6 +17,5 @@
 #include "quo.h"
 #include "rem.h"
 #include "mpow.h"
-
 
 #endif //HWX_EX5_H

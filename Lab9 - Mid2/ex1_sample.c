@@ -1,7 +1,9 @@
-// Sample Code for Lab 9 ex1
-// If you find any mistakes, please contact william_wu@sjtu.edu.cn
-// This exercise is a little bit annoying, but if you realize its implementation by yourself, you should
-// be capable of solving any other similar tasks.
+/*
+ * Sample Code for Lab 9 ex1
+ * If you find any mistakes, please contact william_wu@sjtu.edu.cn
+ * This exercise is a little bit annoying, but if you realize its implementation by yourself, you should
+ * be capable of solving any other similar tasks.
+ */
 
 #include <stdio.h>
 #include <stdlib.h>
