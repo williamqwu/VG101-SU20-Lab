@@ -1,5 +1,6 @@
 /*
  * Sample code for Lab 9 FileIO
+ * Written by William Wu 
  */
 
 #include <stdio.h>

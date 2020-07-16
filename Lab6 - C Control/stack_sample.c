@@ -1,13 +1,13 @@
-// 
-// Sample code for Train Station with applying Stack
-// Created by grid
-// Modified by william
-//
+/*
+ * Sample code for Lab 6 Train Station with applying Stack
+ * Created by grid
+ * Modified by William Wu
+ */
 
 #include <stdio.h>
 #define EMPTY_VALUE -1
 
-// NOTE: the original code (with outCount) consists of mainly two errors:
+// NOTE: the original code (with outCount) mainly consists of two errors:
 // 1. Index of arrays track trackTrainCount and record (major)
 // 2. initialization of track and record (minor)
 // A revised version is provided below:
