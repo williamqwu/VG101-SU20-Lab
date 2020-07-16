@@ -65,9 +65,13 @@ A line include a number $p$, indicating the total number of $m_i$ that is equal 
 
 
 ## Card Displayer
-You will get a card represented by two integer number as input: Suit, Spot.
-Suit will be an integer in $\{0,1,2,3\}$, representing `Spades`, `Hearts`, `Clubs`, `Diamonds`. Spot will be an integer in $\{1,2,3,4,5,6,7,8,9,10,11,12,13\}$, representing `Ace`, `Two`, `Three`, `Four`, `Five`, `Six`, `Seven`, `Eight`, `Nine`, `Ten`, `Jack`, `Queen`, `King`. You task is to output a text description of the card: "`Spotname` of `Suitname`".
-Try take the input as standard input first. Then, do it as command-line input. On JOJ, just submit standard input version. 
+
+You will get a card represented by two integer number as input: **Suit**, **Spot**.
+
+**Suit** will be an integer in $\{0,1,2,3\}$, representing `Spades`, `Hearts`, `Clubs`, `Diamonds`. **Spot** will be an integer in $\{1,2,3,4,5,6,7,8,9,10,11,12,13\}$, representing `Ace`, `Two`, `Three`, `Four`, `Five`, `Six`, `Seven`, `Eight`, `Nine`, `Ten`, `Jack`, `Queen`, `King`. You task is to output a text description of the card: "`Spotname` of `Suitname`".
+
+Try take the input as standard input first. Then, try to do it as command-line input locally. On JOJ, just submit standard input version. 
+
 ### Sample Input
 ```
 2 1
@@ -79,20 +83,22 @@ Ace of Clubs
 
 
 ## Monetary Usage Problem
+
 As we know, here're RMB bills with values: 1, 5, 10, 20, 50, 100. Now, suppose you have enough amount for each kind of bill, when given a price, decide how many bills of each kind you should pay so that the total number of bills is minimized. Output the number of each bill you need to pay in the order 1, 5, 10, 20, 50, 100. 
+
 ### Sample Input
 ```
 77
 ```
+
 ### Sample Output
 ```
 2 1 0 1 1 0
 ```
 
-
 ## C++ Simple string exercise
 
-Giving you one C++ string composed of letters(both uppercase and lowercase), find the maximum length of the palindrome some that the letters can compose of.
+Giving you one C++ string composed of letters(both uppercase and lowercase), find the maximum length of the palindrome string that these letters can compose of.
 
 Input:
 ```
@@ -102,25 +108,27 @@ Output (as the letter ```A``` and ```a```):
 ```
 1
 ```
+\* Note: the maximum palindrome string is `"a"` or `"A"`.
 
 Input:
 ```
 abccccdd
 ```
 
-Output(As the maximum palindrome string is ```"dccaccd"```):
+Output:
 ```
 7
 ```
+\* Note: the maximum palindrome string is `"dccaccd"`.
 
 The prototype of the function is:
-```cpp=
+```cpp
 int longestPalindrome(string s) {
 
 }
 ```
 
-(You can assume of the maximum length of the string no more than 200)
+*You can assume of the maximum length of the string no more than 200.*
 
 ## Pointer with Structure
 
@@ -176,7 +184,7 @@ void print(RationalInt *a)
 #endif
 ```
 
-After your implementation, design your own test on your struct. Here is an example.
+After your implementation, design your own test on your struct. Here we provide you with a sample test file:
 
 ```c
 //main.c
@@ -201,18 +209,17 @@ int main()
 }
 ```
 
-Here the answer should be
-```
+Here the expected output should be
+```c
 9/20
 -1/12
 1/6
 10/9
 ```
 
-Note: smartly combine the `RationalInt` struct with expression evaluation algorithm, you will derive a simple scientific calulator like `fx-991`.
+Note: smartly combine the `RationalInt` struct with expression evaluation algorithm, you will derive a simple scientific calculator like `fx-991`.
 
 # Grading Rubric
-
 
 |      Criteria           | Weight   |Available Time | Due Time | Entry|
 | :-----------------:     | :----:   | :----: |  :----: |:----: |
