@@ -96,40 +96,6 @@ As we know, here're RMB bills with values: 1, 5, 10, 20, 50, 100. Now, suppose y
 2 1 0 1 1 0
 ```
 
-## C++ Simple string exercise
-
-Giving you one C++ string composed of letters(both uppercase and lowercase), find the maximum length of the palindrome string that these letters can compose of.
-
-Input:
-```
-Aa
-```
-Output (as the letter ```A``` and ```a```):
-```
-1
-```
-\* Note: the maximum palindrome string is `"a"` or `"A"`.
-
-Input:
-```
-abccccdd
-```
-
-Output:
-```
-7
-```
-\* Note: the maximum palindrome string is `"dccaccd"`.
-
-The prototype of the function is:
-```cpp
-int longestPalindrome(string s) {
-
-}
-```
-
-*You can assume of the maximum length of the string no more than 200.*
-
 ## Pointer with Structure
 
 Implement a header file of rational number struct, with which you can perform arithmetics including addition, subtraction, multiplication and division.
