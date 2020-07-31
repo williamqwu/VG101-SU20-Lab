@@ -1,10 +1,10 @@
 # VG101-SU20 Mid2 Ex4
-*TA in charge: SHX*
 
-Total score: 15
-Testcase score: 2
-Total count of testcases: 7
-Partial credits: 3,5,7,10,12,15
+*TA in charge: SHX*
+- Total score: 15
+- Testcase score: 2
+- Total count of testcases: 7
+- Partial credits: 3,5,7,10,12,15
 
 Cases Design:
 1. Case0: Sample

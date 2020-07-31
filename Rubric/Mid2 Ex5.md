@@ -1,10 +1,10 @@
 # VG101-SU20 Mid2 Ex5
-*TA in charge: WQH*
 
-Total score: 15
-Testcase score: 7
-Total count of testcases: 20
-Partial credits: 8
+*TA in charge: WQH*
+- Total score: 15
+- Testcase score: 7
+- Total count of testcases: 20
+- Partial credits: 8
 
 Notes:
 - If your program passes more than one-third of the final testcases, you automatically get full marks for the partial credits

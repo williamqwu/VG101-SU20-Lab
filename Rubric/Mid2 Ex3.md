@@ -1,9 +1,9 @@
 # VG101-SU20 Mid2 Ex3
-*TA in charge: CHR*
 
-Total score: 25
-Test case score: 18
-Total count of test cases: 9
+*TA in charge: CHR*
+- Total score: 25
+- Test case score: 18
+- Total count of test cases: 9
 
 Partial points that you may get (for those who only pass few/none cases:)
 1. If the codes has shown concepts of chasing or passing through, you can get 3 points.

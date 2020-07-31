@@ -1,9 +1,9 @@
 # VG101-SU20 Mid2 Ex2
-*TA in charge: CHR*
 
-Total score: 25
-Test case score: 18
-Total count of test case: 9
+*TA in charge: CHR*
+- Total score: 25
+- Test case score: 18
+- Total count of test case: 9
 
 Partial points:
 1. If you use the wrong condition
