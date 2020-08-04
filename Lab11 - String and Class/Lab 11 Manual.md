@@ -173,8 +173,8 @@ c++ style:
 using namespace std;
 // ...
 int num;
-while(!(cin >> num).eof()) cout << num;
-while(cin >> num) cout << num;  //Equivalent, EOF state implicitly converted to false
+while(cin >> num) cout << num; // recommended
+while(!(cin >> num).eof()) cout << num; // if the last string in the file ends without a blank / newline, it will be omitted
 ```
 
 ```c++
@@ -183,8 +183,8 @@ while(cin >> num) cout << num;  //Equivalent, EOF state implicitly converted to 
 using namespace std;
 // ...
 string line;
-while(!getline(cin, line).eof) cout << line;
-while(getline(cin, line)) cout << line; //Equivalent
+while(getline(cin, line)) cout << line; // recommended
+while(!getline(cin, line).eof) cout << line; // if the last string in the file ends without a blank / newline, it will be omitted
 ```
 
 # Grading Rubric

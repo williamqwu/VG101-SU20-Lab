@@ -1,5 +1,9 @@
 # Final Review Notes
 
+*VG101-SU20 TA Group*
+
+*Last modified: 20-08-04*
+
 [Toc]
 ## C++ Basics
 ### C vs C++
