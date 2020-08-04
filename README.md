@@ -21,3 +21,12 @@ Contributors:
 | Lab 08 | C | recursion, algorithm | Expression Evaluation | - |
 | Lab 09 | C | file I/O, program argument, algorithm | Mid2 Sample Exam | - | - |
 | Lab 10 | C / C++ | file I/O, pointer, std::string | - | Online Judge |
+| Lab 11 | C++ | character, string, class | special characters | I/O Redirection |
+
+## Other Materials
+
+| Item | Category | Description |
+| :--------: | :--------: | :--------: |
+| Lab Header | - | HTML header for lab manuals |
+| OpenGL Reference | C++ | reference manual for OpenGL in C++, skipped in lectures/labs |
+| Final Review | C++ | review notes for c++ |
