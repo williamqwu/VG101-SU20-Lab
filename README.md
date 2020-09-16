@@ -30,3 +30,7 @@ Contributors:
 | Lab Header | - | HTML header for lab manuals |
 | OpenGL Reference | C++ | reference manual for OpenGL in C++, skipped in lectures/labs |
 | Final Review | C++ | review notes for c++ |
+| Rubric | - | Rubrics and Autograder for exams |
+
+## Contribution
+Feel free to create any issues.
